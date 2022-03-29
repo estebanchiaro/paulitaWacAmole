@@ -1,14 +1,14 @@
 .grid{
     margin: auto;
-    width: 606px;
-    height: 606px;
+    width: 460px;
+    height: 450px;
     display: flex;
     flex-wrap: wrap;
 }
 
 .square{
-    width: 200px;
-    height: 200px;
+    width: 150px;
+    height: 150px;
     border: solid black 1px;
 }
 
